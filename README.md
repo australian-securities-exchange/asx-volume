@@ -1,2 +1,2 @@
-# asx-volume
-A volume tracking tool for the aus sec exchange
+# ASX Volume tracker
+A volume tracking tool for the Australian Securities Exchange
