@@ -17,7 +17,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/UnusualVolumeDetector-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
@@ -58,10 +58,11 @@
     <state x="686" y="237" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603942157423">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="686" y="237" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603942157423" />
-    <state x="473" y="425" key="FileChooserDialogImpl" timestamp="1603942118188">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="686" y="237" width="1092" height="738" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1602733514902" />
+    <state x="337" y="238" key="FileChooserDialogImpl" timestamp="1603941941709">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="337" y="238" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1603941941709" />
     <state x="-1447" y="425" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@-1920.0.1920.1040" timestamp="1602734114503" />
     <state x="473" y="425" key="FileChooserDialogImpl/0.0.1920.1040/-1920.0.1920.1040@0.0.1920.1040" timestamp="1603942118188" />
     <state width="1899" height="454" key="GridCell.Tab.0.bottom" timestamp="1602742712938">

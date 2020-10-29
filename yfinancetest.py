@@ -10,3 +10,10 @@ zip_info = zip_ax.info
 zip_volume = zip_ax.history(period="max")
 # .actions, .dividends, .splits
 print("breakpoint here")
+
+
+#
+#zipdata = zip.history(period='12mo')
+#zipdata.loc[:, 'Volume']
+#zipvol = zipdata.loc[:,'Volume']
+#zipvol.values

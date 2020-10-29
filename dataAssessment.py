@@ -22,19 +22,18 @@ def dataMean(data):
 	inner_sum = 0
 	
 	for i in range(0,len(data)):
-	    sum = sum + data[i]
+		sum = sum + data[i]
 	
 	mean = int(sum/len(data))
 	#print(len(data))
 	#print(mean)
 	
 	for i in range(0,len(data)):
-	    interior = abs(data[i]-mean)
-	    inner_sum = inner_sum + interior**2
-	    
+		interior = abs(data[i]-mean)
+		inner_sum = inner_sum + interior**2
 	sd = sqrt(inner_sum/len(data))
 	
-	return (mean,sd)    #this isn't right, fix up for two output returns
+	return mean, sd
 
 #Current Deviation Function
 #[numSD] = currentDayDeviation(data,mean,sd)
@@ -47,7 +46,7 @@ def dataMean(data):
 #Outputs:
 #-number of standard deviations the current volume is from the mean over time period
 
-def currentDayDeviation(data,mean,sd):
-    numSD = (data[-1]-mean)/sd
-    return (numSD)
-    
+def currentDayDeviation(data, mean, sd):
+	numSD = (data[-1]-mean)/sd
+	return numSD
+
