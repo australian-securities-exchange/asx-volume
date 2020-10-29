@@ -13,7 +13,7 @@ print("breakpoint here")
 
 
 #
-#zipdata = zip.history(period='12mo')
-#zipdata.loc[:, 'Volume']
-#zipvol = zipdata.loc[:,'Volume']
-#zipvol.values
+# zipdata = zip.history(period='12mo')
+# zipdata.loc[:, 'Volume']
+# zipvol = zipdata.loc[:,'Volume']
+# zipvol.values
